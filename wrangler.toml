@@ -1,0 +1,9 @@
+compatibility_date = "2022-06-12"
+main = "src/index.ts"
+name = "edge-workers"
+
+[vars]
+UPSTASH_REDIS_REST_URL = "https://global-key-yak-30475.upstash.io"
+
+# [secrets]
+# UPSTASH_REDIS_REST_TOKEN
